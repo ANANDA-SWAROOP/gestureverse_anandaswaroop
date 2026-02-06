@@ -8,7 +8,7 @@ Built for **Ubuntu (X11)** and tested with **AppImage-based games**.
 
 ---
 
-## 🎯 Features
+## Features
 
 - Real-time **hand tracking** using MediaPipe
 - Gesture → **Arrow key tap mapping** (game-safe input)
@@ -19,7 +19,7 @@ Built for **Ubuntu (X11)** and tested with **AppImage-based games**.
 
 ---
 
-## 🖐️ Gesture Mapping
+## Gesture Mapping
 
 | Gesture | Action | Key |
 |------|------|----|
@@ -32,7 +32,7 @@ Gestures are **tap-based**, not hold-based — this is critical for games.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3**
 - **OpenCV** – camera input & visualization
@@ -42,7 +42,7 @@ Gestures are **tap-based**, not hold-based — this is critical for games.
 
 ---
 
-## ⚠️ System Requirements (Important)
+## System Requirements (Important)
 
 This project **will NOT work on Wayland**.
 
